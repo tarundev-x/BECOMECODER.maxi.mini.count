@@ -13,7 +13,6 @@ int main()
     {
         cin>>a[i];
     }
-    int maxi=INT_MIN;//a[0]
     for(int i=0;i<n;i++)
     {
     	count=0;
